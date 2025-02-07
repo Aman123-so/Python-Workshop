@@ -1,0 +1,7 @@
+x=(1,24.54,"Ram",3+3j)
+print(x[0])
+print(x[ :2])
+print(x[1: ])
+print(x[-1])
+print(x[ : :-1])
+print(type(x))
