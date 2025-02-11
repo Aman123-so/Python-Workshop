@@ -1,3 +1,4 @@
+#  if , elif , else case 
 x=int(input("enter a number 1 - 7: "))
 if x==1:
     print("Sunday")

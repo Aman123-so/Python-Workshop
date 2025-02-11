@@ -1,3 +1,4 @@
+# Number is negative , positive or zero
 x= int(input("Enter x:"))
 #y= int(input("Enter y:"))
 if x>0:
